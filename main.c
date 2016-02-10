@@ -32,6 +32,7 @@ void main(void)
     /* Initialize I/O and Peripherals for application */
     InitApp();
 
+    this is a tast
 
     while(1)
     {
